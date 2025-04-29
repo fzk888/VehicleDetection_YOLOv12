@@ -27,4 +27,4 @@ pip install VehicleDetection_YOLOv12\requirement.txt
 1. 先克隆项目仓库：
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/fzk888/VehicleDetection_YOLOv12.git>
