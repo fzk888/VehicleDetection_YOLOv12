@@ -1,0 +1,6 @@
+numpy==1.24.3
+opencv-python==4.7.0.68
+ultralytics==8.0.20
+gradio==3.33.1
+torch==2.0.1
+torchvision==0.15.2
